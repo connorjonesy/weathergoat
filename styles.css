@@ -1,0 +1,42 @@
+body{
+    background-color: #2B3035;
+    letter-spacing: 0.1em;
+    font-size: 0.8em;
+}
+
+.container{
+    max-width: 400px;
+}
+
+.dagoat > img{
+    max-width: 200px;
+}
+.dagoat{
+    max-width: 200px;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin: auto;
+    background-color: rgb(23, 203, 137);
+}
+
+#attr{
+    color: aliceblue;
+    position: fixed;
+    left: 0;
+    bottom: 2px;
+}
+
+.icon{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: -40px;
+    border-radius: 50%;
+    margin-bottom: -50px;
+    border: 1px solid white;
+}
+
+#tenor{
+    display: block;
+    max-width: 300px;
+}
